@@ -1,0 +1,19 @@
+{
+  "name": "screen6-testcase",
+  "version": "0.1.6",
+  "description": "Screen6 Test Case, Show the top 10 most occurring words in a set of documents retrieved from a list of URLs",
+  "main": "app.js",
+  "author": "Samir al-Eido <eidosam@hotmail.com>",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "requestretry": "^1.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eidosam/Screen6-Test-Case.git"
+  },
+  "license": "ISC"
+}
